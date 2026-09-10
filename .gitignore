@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Large / generated data (uncomment if you swap in a large real dataset)
+# data/stock_data.csv
